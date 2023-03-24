@@ -1,1 +1,1 @@
-<?PHP gethostname(); ?>
+<?PHP echo gethostname(); ?>
